@@ -7,7 +7,23 @@
 
 <h1 align="center">Olá 👋, Eu sou {Kleisson}</h1>
 <h3 align="center">{Front-end} residente em {Floripa-SC}/{BR}.</h3>
-<p align="center">{Aqui-um-resumo-sobre-sua-carreira-com-5-linhas-no-máximo-e-lembre-de-destacar-seus-pontos-fortes-e-principais-tecnologias}</p>
+<p align="center">🌱 O que estou fazendo
+
+
+
+
+
+Mergulhando em JavaScript, React e Node.js para criar aplicações web dinâmicas e escaláveis.
+
+
+
+Explorando HTML e CSS para construir interfaces responsivas e visualmente atraentes.
+
+
+
+Desenvolvendo projetos práticos que integram APIs e otimizam a experiência do usuário.
+
+💼 Objetivo</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manualdofront&label=Visualizações%20no%20perfil&color=0e75b6&style=flat" alt="manualdofront" /> </p>
 
