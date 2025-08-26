@@ -19,11 +19,8 @@ Mergulhando em JavaScript, React e Node.js para criar aplicações web dinâmica
 
 Explorando HTML e CSS para construir interfaces responsivas e visualmente atraentes.
 
-
-
 Desenvolvendo projetos práticos que integram APIs e otimizam a experiência do usuário.
 
-💼 Objetivo</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manualdofront&label=Visualizações%20no%20perfil&color=0e75b6&style=flat" alt="manualdofront" /> </p>
 
